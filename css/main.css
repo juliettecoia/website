@@ -6,6 +6,11 @@ body {
    font-size: 1.4em;
 }
 
+h1 {
+	font-family: sans-serif;
+	text-align: center;
+}
+
 .tabs {
 	clear: both;
 	position: relative;   
